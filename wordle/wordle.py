@@ -28,10 +28,10 @@ WORDS = [
     "relay", "swamp", "taboo", "undue", "vouch",
     "wrist", "exult", "yearn", "zilch", "abide",
     "brood", "clown", "dowry", "exert", "flint",
-    "groan", "hippo", "image", "jazzy", "khaki",
+    "groan", "hippo", "image", "khaki",
     "llano", "mirth", "noisy", "ounce", "proxy",
-    "rebut", "sting", "tulip", "until", "vigil",
-    "witch", "exult", "yucky", "zesty",
+    "rebut", "sting", "tulip", "until",
+    "witch", "yucky", "zesty",
 ]
 
 WORDS = [w for w in WORDS if len(w) == 5]
